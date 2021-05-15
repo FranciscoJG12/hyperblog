@@ -1,3 +1,15 @@
 Wirri girl nacio en wirri landia capital de ciudad wirri.
 
+<<<<<<< Updated upstream
 Bienvenidos a esta interesante historia de vida y biografia.
+=======
+Experimento1
+
+Experimento2
+
+Master 1
+
+Master 2
+Bienvenidos a esta interesante historia de vida y biografia.
+
+>>>>>>> Stashed changes
